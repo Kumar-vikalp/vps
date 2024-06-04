@@ -1,0 +1,58 @@
+[31-May-24 07:26:45 - INFO] - TelegramBot - Starting TelegramBot....
+[31-May-24 07:26:45 - INFO] - TelegramBot - 
+____________________________________________________________________
+|  _______   _                                ____        _        |
+| |__   __| | |                              |  _ \      | |       |
+|    | | ___| | ___  __ _ _ __ __ _ _ __ ___ | |_) | ___ | |_      |
+|    | |/ _ \ |/ _ \/ _` | '__/ _` | '_ ` _ \|  _ < / _ \| __|     |
+|    | |  __/ |  __/ (_| | | | (_| | | | | | | |_) | (_) | |_      |
+|    |_|\___|_|\___|\__, |_|  \__,_|_| |_| |_|____/ \___/ \__|     |
+|                    __/ |                                         |
+|__________________________________________________________________|   
+
+[31-May-24 07:26:45 - INFO] - TelegramBot - setting up event loop....
+[31-May-24 07:26:45 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[31-May-24 07:26:45 - INFO] - apscheduler.scheduler - Added job "clear_download" to job store "default"
+[31-May-24 07:26:45 - INFO] - apscheduler.scheduler - Scheduler started
+[31-May-24 07:26:45 - INFO] - TelegramBot - initiating the client....
+[31-May-24 07:26:45 - INFO] - __main__ - client successfully initiated...
+[31-May-24 07:27:22 - INFO] - httpx - HTTP Request: GET http://api.telegram.org "HTTP/1.1 301 Moved Permanently"
+[31-May-24 07:29:40 - INFO] - httpx - HTTP Request: GET https://katb.in "HTTP/1.1 200 OK"
+[31-May-24 07:29:40 - INFO] - httpx - HTTP Request: POST https://katb.in "HTTP/1.1 302 Found"
+[31-May-24 13:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-05-31 19:26:45 IST)" (scheduled at 2024-05-31 13:26:45.042481+05:30)
+[31-May-24 13:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-05-31 19:26:45 IST)" executed successfully
+[31-May-24 19:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 01:26:45 IST)" (scheduled at 2024-05-31 19:26:45.042481+05:30)
+[31-May-24 19:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 01:26:45 IST)" executed successfully
+[01-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 07:26:45 IST)" (scheduled at 2024-06-01 01:26:45.042481+05:30)
+[01-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 07:26:45 IST)" executed successfully
+[01-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 13:26:45 IST)" (scheduled at 2024-06-01 07:26:45.042481+05:30)
+[01-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 13:26:45 IST)" executed successfully
+[01-Jun-24 13:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 19:26:45 IST)" (scheduled at 2024-06-01 13:26:45.042481+05:30)
+[01-Jun-24 13:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-01 19:26:45 IST)" executed successfully
+[01-Jun-24 19:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 01:26:45 IST)" (scheduled at 2024-06-01 19:26:45.042481+05:30)
+[01-Jun-24 19:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 01:26:45 IST)" executed successfully
+[02-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 07:26:45 IST)" (scheduled at 2024-06-02 01:26:45.042481+05:30)
+[02-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 07:26:45 IST)" executed successfully
+[02-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 13:26:45 IST)" (scheduled at 2024-06-02 07:26:45.042481+05:30)
+[02-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 13:26:45 IST)" executed successfully
+[02-Jun-24 13:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 19:26:45 IST)" (scheduled at 2024-06-02 13:26:45.042481+05:30)
+[02-Jun-24 13:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-02 19:26:45 IST)" executed successfully
+[02-Jun-24 19:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 01:26:45 IST)" (scheduled at 2024-06-02 19:26:45.042481+05:30)
+[02-Jun-24 19:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 01:26:45 IST)" executed successfully
+[03-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 07:26:45 IST)" (scheduled at 2024-06-03 01:26:45.042481+05:30)
+[03-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 07:26:45 IST)" executed successfully
+[03-Jun-24 06:55:08 - INFO] - httpx - HTTP Request: GET https://nvme-server.diiistore.lol/1c194c0f69e824edfd05c139344c95711eff88727338bb54fc74ecc79422dd02b458335c96a474319bb1b68266cfe38175c654878b39845ee51ffe66100f0bfb57bcfb60a6c464ee91ee7ead2f8a37b3b7267d9d3d8625a13ee05f65b755b901def8213f246577ec8e15e30c08fa493d4c1fb3cf5de51937dc06cf25be89607c1f8656118199814af8268239b9d718fd38ca9d5b272f34a2f39f0e0af62fb365ee42737b70c7453fb621852be709d30f::9e0b5957ece853577823ecbe15a62359/Rajkahini.1080p.AMZN.WEB-DL.DDP2.0.H.264-PrimeFix.mkv "HTTP/1.1 200 OK"
+[03-Jun-24 06:55:35 - INFO] - httpx - HTTP Request: GET https://ten-ssdspaces.diiistore.lol/bb3d1c3d72fb54918dbe67568e5d6b6a1f788ce19af5b78fdee83174ffa7dcfa296ebe135630d35111b1a84a7e08841cafbef71c2e86b2c22e565df46c2a9f3b17112e18f64cdda043e25481be57d3c6768cc63d04f75a836a3f83984ddbeff059469bd350f1c45cc3ae2536667bf2de607300cad31310fff7e582914b63afa1d37fd21500fe0f93207f20bf1f93d967d7976896539150d8aac948d6b9723a1924cc882099fa800cee533e2870dd9874::5bfe9c7699a403331d465d0389fb6a84/Rajkahini.2015.1080p.Hybrid.CBR.AMZN.WEB-DL.DTS.5.1.H.264-RNT.mkv "HTTP/1.1 200 OK"
+[03-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 13:26:45 IST)" (scheduled at 2024-06-03 07:26:45.042481+05:30)
+[03-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 13:26:45 IST)" executed successfully
+[03-Jun-24 13:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 19:26:45 IST)" (scheduled at 2024-06-03 13:26:45.042481+05:30)
+[03-Jun-24 13:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-03 19:26:45 IST)" executed successfully
+[03-Jun-24 19:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-04 01:26:45 IST)" (scheduled at 2024-06-03 19:26:45.042481+05:30)
+[03-Jun-24 19:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-04 01:26:45 IST)" executed successfully
+[04-Jun-24 00:50:59 - ERROR] - TelegramBot.plugins.mediainfo - File not found: 1aKOBXcv8LwupLhW9lSWcEfKX39xw6VPW.
+[04-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-04 07:26:45 IST)" (scheduled at 2024-06-04 01:26:45.042481+05:30)
+[04-Jun-24 01:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-04 07:26:45 IST)" executed successfully
+[04-Jun-24 02:51:42 - WARNING] - googleapiclient.http - Encountered 403 Forbidden with reason "downloadQuotaExceeded"
+[04-Jun-24 02:51:42 - ERROR] - TelegramBot.plugins.mediainfo - <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1p2XX-KZRykwIXtojS43gUmTJ3aylOSDb?alt=media returned "The download quota for this file has been exceeded.". Details: "[{'message': 'The download quota for this file has been exceeded.', 'domain': 'usageLimits', 'reason': 'downloadQuotaExceeded'}]">
+[04-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Running job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-04 13:26:45 IST)" (scheduled at 2024-06-04 07:26:45.042481+05:30)
+[04-Jun-24 07:26:45 - INFO] - apscheduler.executors.default - Job "clear_download (trigger: interval[6:00:00], next run at: 2024-06-04 13:26:45 IST)" executed successfully
